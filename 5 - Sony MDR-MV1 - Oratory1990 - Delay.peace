@@ -54,7 +54,7 @@ Gain6=-2.6
 Gain7=6.5
 Gain8=-8.6
 Gain9=-4
-Gain10=-1.5
+Gain10=-0.5
 [Qualities]
 Quality1=0.45
 Quality2=1.41
@@ -301,4 +301,3 @@ Quality11=1.41
 Quality12=1.41
 Quality13=2.99
 [Configuration]
-HotKey=4
