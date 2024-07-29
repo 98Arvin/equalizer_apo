@@ -1,7 +1,7 @@
 [General]
 Description=https://forum.headphones.com/t/sony-mdr-mv1-official-thread/21984
 PreAmp=-4.5
-Delay=125
+Delay=50
 [Speakers]
 SpeakerId0=0
 SpeakerTargets0=all
@@ -299,3 +299,4 @@ Quality11=1.41
 Quality12=1.41
 Quality13=2.99
 [Configuration]
+HotKey=2

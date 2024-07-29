@@ -1,7 +1,7 @@
 [General]
 Description=https://www.dropbox.com/scl/fi/1j2oaslmax53wkcnzhip4/Sony-MDR-MV1.pdf?dl=0&e=1&rlkey=18wolm564dx8k33f3l182fkk0
 PreAmp=-4.5
-Delay=125
+Delay=50
 [Speakers]
 SpeakerId0=0
 SpeakerTargets0=all
@@ -54,7 +54,7 @@ Gain6=-2.6
 Gain7=4.5
 Gain8=-8.6
 Gain9=-4
-Gain10=-0.5
+Gain10=-1.5
 [Qualities]
 Quality1=0.45
 Quality2=1.41
@@ -300,5 +300,3 @@ Quality10=1.41
 Quality11=1.41
 Quality12=1.41
 Quality13=2.99
-[Configuration]
-HotKey=2
