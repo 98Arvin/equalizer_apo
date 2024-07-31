@@ -1,7 +1,7 @@
 [General]
 Description=https://www.dropbox.com/scl/fi/1j2oaslmax53wkcnzhip4/Sony-MDR-MV1.pdf?dl=0&e=1&rlkey=18wolm564dx8k33f3l182fkk0
 PreAmp=-4.5
-Delay=100
+Delay=50
 [Speakers]
 SpeakerId0=0
 SpeakerTargets0=all
