@@ -6,7 +6,7 @@
 
 This repository is a collection of my personal Equalizer APO presets for various headsets I use. The goal is to keep track of my preferred EQ settings for each headset, allowing me to easily switch between them and maintain a consistent listening experience.
 
-The presets marked with _Delay_ at the end of their preset names have a 125ms delay to offset the TV latency (Sony X95J in Custom mode) and achieve correct lipsync.
+The presets marked with _Delay_ at the end of their preset names have a 50ms delay to offset the TV latency (Sony X95J in Custom mode) and achieve correct lipsync.
 
 **What is Equalizer APO?**
 -------------------------
