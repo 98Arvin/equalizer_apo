@@ -1,6 +1,6 @@
 [General]
 Description=https://www.dropbox.com/s/b09edinwg6tw5vi/Philips%20Fidelio%20X2HR.pdf?e=1&dl=0
-PreAmp=-5.4
+PreAmp=-4.5
 [Speakers]
 SpeakerId0=0
 SpeakerTargets0=all
